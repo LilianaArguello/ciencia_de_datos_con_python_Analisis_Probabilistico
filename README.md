@@ -1,0 +1,2 @@
+# ciencia_de_datos_con_python_Analisis_Probabilistico
+Análisis probabilitsico del curso
